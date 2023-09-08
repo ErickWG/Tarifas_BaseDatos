@@ -44,7 +44,10 @@ public class ListadoService {
         uno=1;
         double suma;
         suma=uno*9.74;
+        if (suma-suma==0){
+            suma=-5;
 
+        }
         return null;
     }
 
