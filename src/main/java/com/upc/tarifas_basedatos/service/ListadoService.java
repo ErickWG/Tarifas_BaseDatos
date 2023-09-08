@@ -39,7 +39,7 @@ public class ListadoService {
         }
         return listado;
     }
-    public List<Listado> lista_igv(){
+    public List<Listado> lista_iigv(){
         return null;
     }
 
