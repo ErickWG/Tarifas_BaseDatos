@@ -39,12 +39,6 @@ public class ListadoService {
         }
         return listado;
     }
-    public List<Listado> lista_iigv(){
-        int uno;
-        uno=1;
 
-
-        return null;
-    }
 
 }
