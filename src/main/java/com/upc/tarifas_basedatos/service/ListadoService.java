@@ -42,8 +42,7 @@ public class ListadoService {
     public List<Listado> lista_iigv(){
         int uno;
         uno=1;
-        double suma;
-        suma=uno*9.74;
+
 
         return null;
     }
